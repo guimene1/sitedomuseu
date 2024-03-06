@@ -1,0 +1,63 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+a:hover {
+    text-decoration: underline0;
+}
+
+#text :link,
+#text a:visited {
+    color: #9e7b1c;
+    padding: 8px 12px;
+}
+
+#text a:hover {
+    color: #f7b600;
+    background-color: #af991e;
+    text-decoration: none;
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e6e6e6;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link,
+a:visited {
+    color: #9e7b1c;
+}
+
+#cabeca {
+    width: auto;
+    padding: 80px;
+
+
+
+}
+
+#text {
+
+    text-align: right;
+    color: #ea9d3e
+}
+
+
+
+#principal {
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#postagem {
+    width: 660px;
+    float: left;
+}
